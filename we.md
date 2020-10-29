@@ -1,4 +1,4 @@
-#[archlinux安装视频](https://www.bilibili.com/video/BV11J411a7Tpa)
+#[archlinux安装视频](https://www.bilibili.com/video/BV11J411a7Tp)
 <center>**"Archlinux配置"**</center>
 _**连接网络**_
 1.  ip link set wlan0 up
